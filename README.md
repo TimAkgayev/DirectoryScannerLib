@@ -1,2 +1,2 @@
 # DirectoryScannerLib
-A multithreaded library for iterating though a file system
+A multithreaded static library for iterating though a file system
